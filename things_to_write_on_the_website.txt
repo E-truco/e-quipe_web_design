@@ -1,0 +1,43 @@
+----------------------------------
+
+E-Quipe
+Open-Source innovation and research.
+Straight from Campus (or something)
+
+----------------------------------
+
+Our main focus is on college assignments
+But we are also creating open source resources to empower creators across the globe
+
+----------------------------------
+
+Main projects:
+E-Truco | explanation
+E-Quino | explanation
+
+----------------------------------
+
+Meet our people
+
+Name
+Nickname
+brief description
+social media
+
+round (circle) photo to the left
+
+----------------------------------
+
+Explore our resources: (or something)
+
+list of open source projects
+with name, technology/langague, license and brief explanation.
+link to github repo
+
+----------------------------------
+
+open to other ideias
+
+----------------------------------
+
+e-truco and e-quino should have their own pages or websites
